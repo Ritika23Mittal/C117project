@@ -1,0 +1,18 @@
+body{
+    background-color: lightcoral;
+}
+
+#score{
+    font-size: 25px;
+    margin-left: 1200px;
+}
+
+#timer{
+    font-size: 25px;
+    margin-right: 1200px;
+}
+
+#sd{
+    color: lavenderblush;
+    font-size: 20px;
+}
